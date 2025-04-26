@@ -24,7 +24,7 @@ Whether you're a speed demon or just want to cruise through a cool world, this g
 ## 🚀 How to Play
 
 1. **Download the Game**  
-   👉 [Download the latest release here](https://github.com/abdimoh596/Lets-Race/releases) *(or clone the repo and build from Unity)*
+   👉 [Download the latest release here](https://github.com/abdimoh596/Lets-Race/) *(or clone the repo and build from Unity)*
 
 2. **Unzip the folder**  
    Extract the `.zip` file containing the game build.
